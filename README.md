@@ -28,3 +28,12 @@ A presentation website written with the python web framework django &amp; java s
    To deactivate it write..
  
    `deactivate`
+
+2. Install the requierd dependencies
+
+   First make sure the virtualenv is activated ( a FurnitureVirt tag name should appear in paranthesis a the start of shell command line in 
+left corner)
+
+   `pip install -r pipackage/requierments.txt`  
+
+   Now you should have a fully functional enviroment with all the dependencies installed. 
